@@ -31,7 +31,6 @@ Also includes a utility to restore all organized files back to the original home
 
 ---
 
-
 ---
 
 ## 🚀 How to Run
@@ -41,7 +40,4 @@ Also includes a utility to restore all organized files back to the original home
    javac projects/FileSort/*.java
 2. **Run the file organizer:**
   ```bash
-  javac projects.FileSort.FileOrganizerMain
-3. **To restore files:**
-  ```bash
-  javac projects.FileSort.RestoreFiles
+  java projects.FileSort.FileOrganizerMain
